@@ -32,17 +32,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
 </p>
 ---
+
 ---
 ### ⚡ GitHub Stats ⚡
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical&hide_rank=true" alt="Saakshi's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical&hide_rank=true" alt="Saakshi B's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical" alt="Saakshi's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical" alt="Saakshi B's Top Languages"/>
 
 </p>
 ---
+
 ---
 
 ### Support My Work 
