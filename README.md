@@ -35,12 +35,11 @@
 
 ---
 ### ⚡ GitHub Stats ⚡
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical&hide_rank=true" alt="Saakshi B's GitHub Stats"/>
+[![Saakshi B's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical" alt="Saakshi B's Top Languages"/>
+[![Saakshi B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 ---
