@@ -34,17 +34,6 @@
 ---
 
 ---
-### ⚡ GitHub Stats ⚡
-<p align="center">
-
-[![Saakshi B's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Saakshi B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
----
-
----
 
 ### Support My Work 
 
