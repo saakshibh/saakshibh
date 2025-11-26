@@ -41,6 +41,17 @@
 
 </p>
 ---
+
+---
+### 💖 Support My Work 
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/saakshii_h">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me A Coffee Badge"/>
+  </a>
+</p>
+
+---
 <!--
 **saakshibh/saakshibh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
