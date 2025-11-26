@@ -33,11 +33,16 @@
 </p>
 
 ---
+
 ### ⚡ GitHub Stats ⚡
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical" alt="Sakshi's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 <!--
