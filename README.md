@@ -33,15 +33,16 @@
 </p>
 
 ---
-
 ### ⚡ GitHub Stats ⚡
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical" alt="Sakshi's GitHub Stats" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saakshibh&show_icons=true&theme=radical) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshibh&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me A Coffee Badge"/>
+  </a>
 </p>
 
 ---
