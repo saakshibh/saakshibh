@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there , I'm Sakshi B 👋
 
+
+### A Passionate Software Developer
+
+* 🎓I'm a 3rd-year B.E student focused on crafting innovative solutions.
+* 💻 Currently diving deep into DSA in c++ and python.
+* 💬 Ask me about DSA and web development.
+* ✨ I love poetry and crocheting!
+
+---
 <!--
 **saakshibh/saakshibh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
