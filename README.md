@@ -41,6 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-co.svg" alt="Render" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-line.svg" alt="Render" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Recharts" height="40"/>
+  <img src="https://img.shields.io/badge/NLP-Data_Science-blue?style=for-the-badge&logo=python&logoColor=white" alt="Natural Language Processing" height="40"/>
+  <img src="https://img.shields.io/badge/LSTM-Deep_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LSTM" height="40"/>
+  <img src="https://img.shields.io/badge/VADER-Sentiment_Analysis-green?style=for-the-badge&logo=vlc&logoColor=white" alt="VADER Sentiment" height="40"/>
 </p>
 
 
